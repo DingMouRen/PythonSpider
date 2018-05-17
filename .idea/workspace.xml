@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="383c8f7e-e51b-4f39-b569-e33cd5619246" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_8_urlparse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_10_urlsplit.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_8_urlparse.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_8_urlparse.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,23 +17,43 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/PythonSpider$demo_8_urlparse.coverage" NAME="demo_8_urlparse Coverage Results" MODIFIED="1526599330708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
+    <SUITE FILE_PATH="coverage/PythonSpider$demo_8_urlparse.coverage" NAME="demo_8_urlparse Coverage Results" MODIFIED="1526600858859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_1.coverage" NAME="demo_1 Coverage Results" MODIFIED="1526428926563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_2.coverage" NAME="demo_2 Coverage Results" MODIFIED="1526469782022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_6_cookies.coverage" NAME="demo_6_cookies Coverage Results" MODIFIED="1526556040453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
+    <SUITE FILE_PATH="coverage/PythonSpider$demo_9_urlunparse.coverage" NAME="demo_9_urlunparse Coverage Results" MODIFIED="1526599987105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_6.coverage" NAME="demo_6 Coverage Results" MODIFIED="1526516420325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_3.coverage" NAME="demo_3 Coverage Results" MODIFIED="1526472277070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_5.coverage" NAME="demo_5 Coverage Results" MODIFIED="1526514888025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_8_HTTPError.coverage" NAME="demo_8_HTTPError Coverage Results" MODIFIED="1526557789513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
+    <SUITE FILE_PATH="coverage/PythonSpider$demo_10_urlsplit.coverage" NAME="demo_10_urlsplit Coverage Results" MODIFIED="1526601277238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo7_URLError.coverage" NAME="demo7_URLError Coverage Results" MODIFIED="1526556449994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="demo_8_urlparse.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="demo_10_urlsplit.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_10_urlsplit.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo_9_urlunparse.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_9_urlunparse.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo_8_urlparse.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_8_urlparse.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="261">
+              <caret line="21" column="68" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -61,7 +82,9 @@
         <option value="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_6_cookies.py" />
         <option value="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo7_URLError.py" />
         <option value="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_8_HTTPError.py" />
+        <option value="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_9_urlunparse.py" />
         <option value="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_8_urlparse.py" />
+        <option value="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_10_urlsplit.py" />
       </list>
     </option>
   </component>
@@ -134,7 +157,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demo_8_urlparse">
+  <component name="RunManager" selected="Python.demo_10_urlsplit">
     <configuration name="demo7_URLError" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonSpider" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,7 +177,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="demo_6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo_10_urlsplit" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonSpider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,26 +190,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\python\PythonSpider\src\基本库的使用\1_使用urllib\demo_6_cookies.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="demo_6_cookies" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonSpider" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_6_cookies.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_10_urlsplit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,20 +234,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="demo_9_urlunparse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_9_urlunparse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.demo_6" />
-      <item itemvalue="Python.demo_6_cookies" />
       <item itemvalue="Python.demo7_URLError" />
       <item itemvalue="Python.demo_8_HTTPError" />
       <item itemvalue="Python.demo_8_urlparse" />
+      <item itemvalue="Python.demo_9_urlunparse" />
+      <item itemvalue="Python.demo_10_urlsplit" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demo_10_urlsplit" />
         <item itemvalue="Python.demo_8_urlparse" />
+        <item itemvalue="Python.demo_9_urlunparse" />
         <item itemvalue="Python.demo_8_HTTPError" />
         <item itemvalue="Python.demo7_URLError" />
-        <item itemvalue="Python.demo_6_cookies" />
-        <item itemvalue="Python.demo_6" />
       </list>
     </recent_temporary>
   </component>
@@ -335,7 +358,21 @@
       <option name="project" value="LOCAL" />
       <updated>1526557817625</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="urlparse的使用">
+      <created>1526599498892</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1526599498892</updated>
+    </task>
+    <task id="LOCAL-00013" summary="urlunparse构造URL">
+      <created>1526600233366</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1526600233366</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -382,7 +419,9 @@
     <MESSAGE value="python文件名称修改" />
     <MESSAGE value="URLError使用" />
     <MESSAGE value="HTTPError异常使用" />
-    <option name="LAST_COMMIT_MESSAGE" value="HTTPError异常使用" />
+    <MESSAGE value="urlparse的使用" />
+    <MESSAGE value="urlunparse构造URL" />
+    <option name="LAST_COMMIT_MESSAGE" value="urlunparse构造URL" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_3_request.py">
@@ -566,8 +605,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_8_urlparse.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="261">
+          <caret line="21" column="68" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_9_urlunparse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_10_urlsplit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="10" lean-forward="true" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
         </state>
       </provider>
     </entry>

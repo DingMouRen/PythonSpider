@@ -17,9 +17,11 @@ urlstring:待解析的URL,必填
 scheme:表示默认协议，只有在URL中不包含协议信息时才有作用
 allow_fragment:表示是否忽略fragment,
 
+ParseResult是一个元组，1.通过属性获取值  2.通过索引获取值
 '''
 result = urlparse('http://www.baidu.com/index.html;user?id=5#comment')
 print(type(result),result,sep='\n')
 
 result1  = urlparse('www.baidu.com/index.html;user?id=5#comment',scheme='http',allow_fragments=False)
-print(result1)
+print(result1,'\n')
+print(result1.scheme,result1.path,sep='\t') # 访问元组数据
