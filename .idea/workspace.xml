@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="383c8f7e-e51b-4f39-b569-e33cd5619246" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/cookies_lwp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_3_request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_4_auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_5_proxy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_6_cookies.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,11 +27,68 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="demo_6.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_6.py">
+      <file leaf-file-name="demo_3_request.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_3_request.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
+            <state relative-caret-position="627">
+              <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo_2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="14" column="68" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="68" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo_1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo_6_cookies.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_6_cookies.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
               <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo_5_proxy.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_5_proxy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo_4_auth.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_4_auth.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
+              <folding>
+                <element signature="e#0#92#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -39,7 +98,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="cookies_lwp.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="cookies_lwp.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/cookies_lwp.txt">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -189,7 +248,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_3.py" />
+      <option name="SCRIPT_NAME" value="D:\python\PythonSpider\src\基本库的使用\1_使用urllib\demo_3_request.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,7 +267,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_5.py" />
+      <option name="SCRIPT_NAME" value="D:\python\PythonSpider\src\基本库的使用\1_使用urllib\demo_5_proxy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,7 +286,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_6.py" />
+      <option name="SCRIPT_NAME" value="D:\python\PythonSpider\src\基本库的使用\1_使用urllib\demo_6_cookies.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -310,11 +369,19 @@
       <option name="project" value="LOCAL" />
       <updated>1526515530130</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="cookies的处理">
+      <created>1526516464566</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1526516464566</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -352,10 +419,11 @@
     <MESSAGE value="Request实例的使用" />
     <MESSAGE value="验证" />
     <MESSAGE value="代理" />
-    <option name="LAST_COMMIT_MESSAGE" value="代理" />
+    <MESSAGE value="cookies的处理" />
+    <option name="LAST_COMMIT_MESSAGE" value="cookies的处理" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_3.py">
+    <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_3_request.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
           <caret line="33" column="38" lean-forward="true" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
@@ -408,13 +476,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/python36/Lib/urllib/request.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="131">
@@ -429,16 +490,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="14" column="68" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="68" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/python36/Lib/urllib/parse.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -446,17 +497,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_3.py">
+    <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/cookies.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/cookies_mozilla.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/cookies_lwp.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_6_cookies.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+        <state relative-caret-position="551">
+          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_5_proxy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
           <folding>
-            <element signature="e#0#32#0" expanded="true" />
+            <element signature="e#0#33#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_4.py">
+    <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_4_auth.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
@@ -466,31 +533,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_5.py">
+    <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_3_request.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        <state relative-caret-position="627">
+          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
           <folding>
-            <element signature="e#0#33#0" expanded="true" />
+            <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/cookies.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_6.py">
+    <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+        <state relative-caret-position="75">
+          <caret line="14" column="68" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/cookies_mozilla.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/cookies_lwp.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
