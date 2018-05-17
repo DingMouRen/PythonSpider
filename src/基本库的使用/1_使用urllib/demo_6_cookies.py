@@ -32,3 +32,14 @@ handler3 = urllib.request.HTTPCookieProcessor(cookie3)
 opener3 = urllib.request.build_opener(handler3)
 response3 = opener3.open('http://www.baidu.com')
 cookie3.save(ignore_discard=True,ignore_expires=True)
+
+'''
+4.读取文件中的Cookies
+'''
+cookie4 = http.cookiejar.LWPCookieJar()
+cookie4.load("cookies_lwp.txt",ignore_discard=True,ignore_expires=True)
+handler4 = urllib.request.HTTPCookieProcessor(cookie4)
+opener4 = urllib.request.build_opener(handler4)
+response4 = opener.open('http://www.baidu.com')
+print('读取文件中的Cookie')
+print(response4.read().decode('utf-8'))
