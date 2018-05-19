@@ -1,7 +1,7 @@
 import requests
 
 '''
-Session模拟同一个会话而不担心Cookie的问题。通常用于模拟登陆之后再进行下一步操作
+Session模拟同一个会话而不担心Cookie的问题。不需要反复添加cookie,通常用于模拟登陆之后再进行下一步操作
 '''
 
 session_1 = requests.Session()
