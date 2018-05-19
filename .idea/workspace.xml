@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="383c8f7e-e51b-4f39-b569-e33cd5619246" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_3_POST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_4_文件上传.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_5_Cookies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,6 +21,7 @@
     <SUITE FILE_PATH="coverage/PythonSpider$demo_1.coverage" NAME="demo_1 Coverage Results" MODIFIED="1526693495758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_17_robotparser.coverage" NAME="demo_17_robotparser Coverage Results" MODIFIED="1526694501357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_11_urljoin.coverage" NAME="demo_11_urljoin Coverage Results" MODIFIED="1526689762793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
+    <SUITE FILE_PATH="coverage/PythonSpider$demo_5_Cookies.coverage" NAME="demo_5_Cookies Coverage Results" MODIFIED="1526717320121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/2_使用requests" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_3.coverage" NAME="demo_3 Coverage Results" MODIFIED="1526472277070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_8_HTTPError.coverage" NAME="demo_8_HTTPError Coverage Results" MODIFIED="1526557789513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_1_.coverage" NAME="demo_1_实例引入 Coverage Results" MODIFIED="1526699377842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/2_使用requests" />
@@ -28,6 +31,7 @@
     <SUITE FILE_PATH="coverage/PythonSpider$demo_6_cookies.coverage" NAME="demo_6_cookies Coverage Results" MODIFIED="1526556040453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_9_urlunparse.coverage" NAME="demo_9_urlunparse Coverage Results" MODIFIED="1526689813885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_6.coverage" NAME="demo_6 Coverage Results" MODIFIED="1526516420325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
+    <SUITE FILE_PATH="coverage/PythonSpider$demo_4_.coverage" NAME="demo_4_文件上传 Coverage Results" MODIFIED="1526716432727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/2_使用requests" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_12_urlencode.coverage" NAME="demo_12_urlencode Coverage Results" MODIFIED="1526689750174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_16_unquote.coverage" NAME="demo_16_unquote Coverage Results" MODIFIED="1526690184898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_3_POST.coverage" NAME="demo_3_POST Coverage Results" MODIFIED="1526707839887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/2_使用requests" />
@@ -39,11 +43,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="demo_3_POST.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="demo_3_POST.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_3_POST.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
               <caret line="10" column="49" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo_4_文件上传.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_4_文件上传.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo_5_Cookies.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_5_Cookies.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo_2_GET.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_2_GET.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -85,6 +119,8 @@
         <option value="$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_1_实例引入.py" />
         <option value="$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_2_GET.py" />
         <option value="$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_3_POST.py" />
+        <option value="$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_4_文件上传.py" />
+        <option value="$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_5_Cookies.py" />
       </list>
     </option>
   </component>
@@ -161,45 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demo_3_POST">
-    <configuration name="demo_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonSpider" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="demo_17_robotparser" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonSpider" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_17_robotparser.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.demo_5_Cookies">
     <configuration name="demo_1_实例引入" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonSpider" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -257,20 +255,58 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="demo_4_文件上传" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/基本库的使用/2_使用requests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_4_文件上传.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="demo_5_Cookies" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/基本库的使用/2_使用requests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_5_Cookies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.demo_17_robotparser" />
-      <item itemvalue="Python.demo_1" />
       <item itemvalue="Python.demo_1_实例引入" />
       <item itemvalue="Python.demo_2_GET" />
       <item itemvalue="Python.demo_3_POST" />
+      <item itemvalue="Python.demo_4_文件上传" />
+      <item itemvalue="Python.demo_5_Cookies" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demo_5_Cookies" />
+        <item itemvalue="Python.demo_4_文件上传" />
         <item itemvalue="Python.demo_3_POST" />
         <item itemvalue="Python.demo_2_GET" />
         <item itemvalue="Python.demo_1_实例引入" />
-        <item itemvalue="Python.demo_17_robotparser" />
-        <item itemvalue="Python.demo_1" />
       </list>
     </recent_temporary>
   </component>
@@ -439,12 +475,18 @@
       <option name="project" value="LOCAL" />
       <updated>1526707446516</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="requests post请求">
+      <created>1526707968839</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1526707968839</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1295" height="704" extended-state="7" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5003903" side_tool="true" weight="0.49746192" />
@@ -497,7 +539,8 @@
     <MESSAGE value="判断是否可以爬取网页，都是false呢~~~" />
     <MESSAGE value="requests库的使用" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="requests post请求" />
+    <option name="LAST_COMMIT_MESSAGE" value="requests post请求" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_12_urlencode.py">
@@ -766,6 +809,27 @@
     <entry file="file://$PROJECT_DIR$/src/基本库的使用/2_使用requests/favicon.ico">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_3_POST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="49" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_4_文件上传.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/requests/cookies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="261" column="8" selection-start-line="261" selection-start-column="8" selection-end-line="261" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_2_GET.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="141">
@@ -776,10 +840,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_3_POST.py">
+    <entry file="file://$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_5_Cookies.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="49" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="49" />
+        <state relative-caret-position="309">
+          <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
         </state>
       </provider>
     </entry>
