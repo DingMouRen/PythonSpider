@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="383c8f7e-e51b-4f39-b569-e33cd5619246" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_11_PreparedRequest.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_11_PreparedRequest.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -141,6 +140,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,7 +167,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -523,12 +522,18 @@
       <option name="project" value="LOCAL" />
       <updated>1526734563290</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="update">
+      <created>1527169556185</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1527169556185</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5003903" side_tool="true" weight="0.49746192" />
@@ -577,7 +582,6 @@
     <MESSAGE value="unquote()函数可进行URL解码" />
     <MESSAGE value="判断是否可以爬取网页，都是false呢~~~" />
     <MESSAGE value="requests库的使用" />
-    <MESSAGE value="update" />
     <MESSAGE value="requests post请求" />
     <MESSAGE value="requests 文件上传  cookie处理" />
     <MESSAGE value="requests 通过Session对象来维持同一个会话，不需要反复添加cookie" />
@@ -585,7 +589,8 @@
     <MESSAGE value="requests 代理设置  超时设置" />
     <MESSAGE value="requests 封装成Request对象" />
     <MESSAGE value="正则表达式" />
-    <option name="LAST_COMMIT_MESSAGE" value="正则表达式" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_10_身份验证.py">
