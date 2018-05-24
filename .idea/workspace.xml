@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="383c8f7e-e51b-4f39-b569-e33cd5619246" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_11_PreparedRequest.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_11_PreparedRequest.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,8 +56,8 @@
       <file leaf-file-name="demo_11_PreparedRequest.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_11_PreparedRequest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+            <state relative-caret-position="95">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -64,7 +65,7 @@
       <file leaf-file-name="demo_2_GET.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_2_GET.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
+            <state relative-caret-position="418">
               <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -118,6 +119,7 @@
         <option value="$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_9_超时设置.py" />
         <option value="$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_10_身份验证.py" />
         <option value="$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_11_PreparedRequest.py" />
+        <option value="$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_11_PreparedRequest.py" />
       </list>
     </option>
   </component>
@@ -526,6 +528,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5003903" side_tool="true" weight="0.49746192" />
@@ -585,6 +588,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="正则表达式" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_10_身份验证.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_2_GET.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_11_PreparedRequest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_12_urlencode.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -793,9 +820,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/cookies_lwp.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -828,9 +852,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="143">
           <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#46#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -840,9 +861,6 @@
           <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/favicon.ico">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_3_POST.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -916,7 +934,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_2_GET.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
+        <state relative-caret-position="418">
           <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
@@ -926,8 +944,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_11_PreparedRequest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        <state relative-caret-position="95">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
         </state>
       </provider>
     </entry>
