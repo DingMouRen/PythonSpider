@@ -57,7 +57,7 @@
         <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_11_PreparedRequest.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -141,7 +141,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -168,6 +167,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -544,7 +544,14 @@
       <option name="project" value="LOCAL" />
       <updated>1527465961989</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="update">
+      <created>1527552400345</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1527552400345</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -554,17 +561,17 @@
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5003903" side_tool="true" weight="0.49746192" />
       <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49960968" weight="0.32711864" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.32881355" />
       <window_info anchor="bottom" id="Python Console" order="4" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49960968" weight="0.32711864" />
       <window_info anchor="bottom" id="Terminal" order="5" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.33957845" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="2" />
       <window_info anchor="right" id="SciView" order="0" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
@@ -966,7 +973,7 @@
     <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_11_PreparedRequest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
         </state>
       </provider>
     </entry>
