@@ -3,7 +3,7 @@ from requests import Request,Session
 将请求封装成一个对象，在进行队列调度时会非常方便，可以构造一个Request队列
 1.用url data headers参数构造一个Request对象，
 2.调用Session的prepare_request()方法将Request对象转换成一个PreparedRequest对象
-3.调用send()函数， 发送请求
+3.调用send()函数，发送请求
 '''
 url = 'http://httpbin.org/post'
 data = {
