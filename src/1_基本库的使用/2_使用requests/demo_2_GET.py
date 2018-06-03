@@ -2,7 +2,7 @@ import requests
 from urllib.error import URLError
 import re
 
-# 1.基本使用
+# 1. 基本使用
 try:
     response_1 = requests.get('http://httpbin.org/get')
 except URLError as e:
