@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_1.py" line="8" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="383c8f7e-e51b-4f39-b569-e33cd5619246" name="Default" comment="" />
+    <list default="true" id="383c8f7e-e51b-4f39-b569-e33cd5619246" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +30,7 @@
     <SUITE FILE_PATH="coverage/PythonSpider$demo_5.coverage" NAME="demo_5 Coverage Results" MODIFIED="1526514888025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_15_quote.coverage" NAME="demo_15_quote Coverage Results" MODIFIED="1526690028304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_14_parse_qsl.coverage" NAME="demo_14_parse_qsl Coverage Results" MODIFIED="1526689710559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
+    <SUITE FILE_PATH="coverage/PythonSpider$demo_1_macth.coverage" NAME="demo_1_macth Coverage Results" MODIFIED="1528070601887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_11_urljoin.coverage" NAME="demo_11_urljoin Coverage Results" MODIFIED="1526689762793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_5_Cookies.coverage" NAME="demo_5_Cookies Coverage Results" MODIFIED="1526717320121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/2_使用requests" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_3.coverage" NAME="demo_3 Coverage Results" MODIFIED="1526472277070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
@@ -40,7 +43,17 @@
     <SUITE FILE_PATH="coverage/PythonSpider$demo7_URLError.coverage" NAME="demo7_URLError Coverage Results" MODIFIED="1526556449994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="demo_1_macth.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo_1_macth.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -86,6 +99,8 @@
         <option value="$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_10_身份验证.py" />
         <option value="$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_11_PreparedRequest.py" />
         <option value="$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_11_PreparedRequest.py" />
+        <option value="$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_2_GET.py" />
+        <option value="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo_1_macth.py" />
       </list>
     </option>
   </component>
@@ -96,9 +111,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="1943" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -124,6 +139,20 @@
               <item name="PythonSpider" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="1_基本库的使用" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1_基本库的使用" type="462c0819:PsiDirectoryNode" />
+              <item name="2_使用requests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="1_基本库的使用" type="462c0819:PsiDirectoryNode" />
+              <item name="3_正则表达式" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonSpider" type="b2602c69:ProjectViewProjectNode" />
@@ -155,7 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demo_11_PreparedRequest">
+  <component name="RunManager" selected="Python.demo_1_macth">
     <configuration name="demo_11_PreparedRequest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonSpider" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,7 +204,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="demo_3_POST" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo_1_macth" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonSpider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,12 +212,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/基本库的使用/2_使用requests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_3_POST.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo_1_macth.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -252,19 +281,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.demo_3_POST" />
       <item itemvalue="Python.demo_4_文件上传" />
       <item itemvalue="Python.demo_5_Cookies" />
       <item itemvalue="Python.demo_6_维持会话" />
       <item itemvalue="Python.demo_11_PreparedRequest" />
+      <item itemvalue="Python.demo_1_macth" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demo_1_macth" />
         <item itemvalue="Python.demo_11_PreparedRequest" />
         <item itemvalue="Python.demo_6_维持会话" />
         <item itemvalue="Python.demo_5_Cookies" />
         <item itemvalue="Python.demo_4_文件上传" />
-        <item itemvalue="Python.demo_3_POST" />
       </list>
     </recent_temporary>
   </component>
@@ -545,11 +574,25 @@
       <option name="project" value="LOCAL" />
       <updated>1527896553778</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="update">
+      <created>1528069853040</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1528069853040</updated>
+    </task>
+    <task id="LOCAL-00040" summary="正则表达式match">
+      <created>1528070736016</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1528070736016</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="704" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5003903" side_tool="true" weight="0.49746192" />
@@ -558,7 +601,7 @@
       <window_info anchor="bottom" id="Python Console" order="4" />
       <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49960968" weight="0.32711864" />
       <window_info anchor="bottom" id="Terminal" order="5" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.33957845" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.20296644" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="2" />
       <window_info anchor="right" id="SciView" order="0" />
@@ -581,7 +624,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Request实例的使用" />
     <MESSAGE value="验证" />
     <MESSAGE value="代理" />
     <MESSAGE value="cookies的处理" />
@@ -606,23 +648,14 @@
     <MESSAGE value="requests 封装成Request对象" />
     <MESSAGE value="正则表达式" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="正则表达式match" />
+    <option name="LAST_COMMIT_MESSAGE" value="正则表达式match" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_10_身份验证.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_2_GET.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -953,20 +986,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_2_GET.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_11_PreparedRequest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="36" lean-forward="true" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_2_GET.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo_1_macth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
