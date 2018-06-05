@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="383c8f7e-e51b-4f39-b569-e33cd5619246" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo_1_macth.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo_1_macth.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -47,8 +48,8 @@
       <file leaf-file-name="demo_1_macth.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo_1_macth.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            <state relative-caret-position="38">
+              <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -588,11 +589,19 @@
       <option name="project" value="LOCAL" />
       <updated>1528070736016</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="正则表达式match">
+      <created>1528156815730</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1528156815730</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5003903" side_tool="true" weight="0.49746192" />
@@ -1002,8 +1011,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo_1_macth.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        <state relative-caret-position="38">
+          <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
         </state>
       </provider>
     </entry>
