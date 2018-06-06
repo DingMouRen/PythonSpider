@@ -1,6 +1,7 @@
 import re
 '''
 match()函数会从字符串的起始位置匹配正则表达式，如果匹配，就返回匹配成功的结果，如果不匹配，就返回None
+,开头不匹配的话就会失败，match()函数更适合用来检测某个字符串是否符合某个正则表达式的规则
 '''
 # 1.match()函数的基本使用
 content1 = 'Hello 123 4567 World_This is a Regex Demo'
