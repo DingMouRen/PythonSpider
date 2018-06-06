@@ -61,3 +61,11 @@ print("5.修饰符")
 print(result5)
 print(result5.group(1))
 print(result5.span())
+
+# 6.转义匹配   当遇到用于正则匹配模式的特殊字符时，在前面加反斜线转义一下
+
+content6 = '(百度)www.baidu.com'
+result6 = re.match('\(百度\)www\.baidu\.com',content6)
+print('6.转义匹配')
+print(result6)
+print(result6.group())
