@@ -31,7 +31,7 @@
     <SUITE FILE_PATH="coverage/PythonSpider$demo_5.coverage" NAME="demo_5 Coverage Results" MODIFIED="1526514888025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_15_quote.coverage" NAME="demo_15_quote Coverage Results" MODIFIED="1526690028304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_14_parse_qsl.coverage" NAME="demo_14_parse_qsl Coverage Results" MODIFIED="1526689710559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
-    <SUITE FILE_PATH="coverage/PythonSpider$demo_1_macth.coverage" NAME="demo_1_macth Coverage Results" MODIFIED="1528070601887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式" />
+    <SUITE FILE_PATH="coverage/PythonSpider$demo_1_macth.coverage" NAME="demo_1_macth Coverage Results" MODIFIED="1528244207509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_11_urljoin.coverage" NAME="demo_11_urljoin Coverage Results" MODIFIED="1526689762793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_5_Cookies.coverage" NAME="demo_5_Cookies Coverage Results" MODIFIED="1526717320121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/2_使用requests" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_3.coverage" NAME="demo_3 Coverage Results" MODIFIED="1526472277070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
@@ -48,8 +48,8 @@
       <file leaf-file-name="demo_1_macth.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo_1_macth.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
+            <state relative-caret-position="203">
+              <caret line="62" column="21" lean-forward="true" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -596,7 +596,14 @@
       <option name="project" value="LOCAL" />
       <updated>1528156815730</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="match()函数">
+      <created>1528240841163</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1528240841163</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -608,7 +615,7 @@
       <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.32881355" />
       <window_info anchor="bottom" id="Python Console" order="4" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49960968" weight="0.32711864" />
+      <window_info active="true" anchor="bottom" id="Run" order="9" sideWeight="0.49960968" visible="true" weight="0.3779661" />
       <window_info anchor="bottom" id="Terminal" order="5" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.20296644" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
@@ -633,7 +640,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="验证" />
     <MESSAGE value="代理" />
     <MESSAGE value="cookies的处理" />
     <MESSAGE value="python文件名称修改" />
@@ -658,7 +664,8 @@
     <MESSAGE value="正则表达式" />
     <MESSAGE value="update" />
     <MESSAGE value="正则表达式match" />
-    <option name="LAST_COMMIT_MESSAGE" value="正则表达式match" />
+    <MESSAGE value="match()函数" />
+    <option name="LAST_COMMIT_MESSAGE" value="match()函数" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_2_GET.py">
@@ -918,13 +925,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_1_实例引入.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_3_POST.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -946,13 +946,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_5_Cookies.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_6_维持会话.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -964,13 +957,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_8_代理设置.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -988,10 +974,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_10_身份验证.py">
+    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_8_代理设置.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        <state relative-caret-position="38">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_5_Cookies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
         </state>
       </provider>
     </entry>
@@ -1002,17 +995,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_2_GET.py">
+    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_10_身份验证.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_1_实例引入.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_2_GET.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
           <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo_1_macth.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="56" selection-start-line="2" selection-start-column="56" selection-end-line="2" selection-end-column="56" />
+        <state relative-caret-position="203">
+          <caret line="62" column="21" lean-forward="true" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
         </state>
       </provider>
     </entry>
