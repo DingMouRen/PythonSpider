@@ -1,7 +1,8 @@
 import re
 
 '''
-search()函数会扫描整个字符串，然后返回第一个成功匹配的结果，如果没有符合的就返回None.正则表达式可以是字符串的一部分
+search()函数会扫描整个字符串，然后返回第一个成功匹配的结果，如果没有符合的就返回None.正则表达式可以是字符串的一部分，
+只获取第一个内容用search()函数
 '''
 # 1.search()基本使用
 content1 = "Hello from your'friend"
@@ -22,7 +23,7 @@ content2 = '''<!DOCTYPE html>
     <a href="4.mp3" singer="齐秦">往事随风</a>
 </li>
 <li data-view="1">
-    <a href="4.mp3" singer="齐秦">往事随风</a>
+    <a href="4.mp3" singer="刘若英">后来</a>
 </li>
 </body>
 </html>'''
