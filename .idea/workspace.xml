@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="383c8f7e-e51b-4f39-b569-e33cd5619246" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo_2_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo_4_sub.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo_5_compile.pyi" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo_1_macth.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo_1_macth.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,6 +21,7 @@
     <SUITE FILE_PATH="coverage/PythonSpider$demo_8_urlparse.coverage" NAME="demo_8_urlparse Coverage Results" MODIFIED="1526600858859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_11_PreparedRequest.coverage" NAME="demo_11_PreparedRequest Coverage Results" MODIFIED="1526724502024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/2_使用requests" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_1.coverage" NAME="demo_1 Coverage Results" MODIFIED="1526693495758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
+    <SUITE FILE_PATH="coverage/PythonSpider$demo_4_sub.coverage" NAME="demo_4_sub Coverage Results" MODIFIED="1528331414654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_17_robotparser.coverage" NAME="demo_17_robotparser Coverage Results" MODIFIED="1526694501357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_1_.coverage" NAME="demo_1_实例引入 Coverage Results" MODIFIED="1526699377842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/2_使用requests" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_2_GET.coverage" NAME="demo_2_GET Coverage Results" MODIFIED="1526707094783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/2_使用requests" />
@@ -30,6 +30,7 @@
     <SUITE FILE_PATH="coverage/PythonSpider$demo_9_urlunparse.coverage" NAME="demo_9_urlunparse Coverage Results" MODIFIED="1526689813885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_4_.coverage" NAME="demo_4_文件上传 Coverage Results" MODIFIED="1526716432727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/2_使用requests" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_3_POST.coverage" NAME="demo_3_POST Coverage Results" MODIFIED="1526707839887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/2_使用requests" />
+    <SUITE FILE_PATH="coverage/PythonSpider$demo_3_findall.coverage" NAME="demo_3_findall Coverage Results" MODIFIED="1528330338413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_5.coverage" NAME="demo_5 Coverage Results" MODIFIED="1526514888025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_15_quote.coverage" NAME="demo_15_quote Coverage Results" MODIFIED="1526690028304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_14_parse_qsl.coverage" NAME="demo_14_parse_qsl Coverage Results" MODIFIED="1526689710559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
@@ -48,17 +49,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="demo_2_search.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo_2_search.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-25">
-              <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo.html">
+      <file leaf-file-name="demo_5_compile.pyi" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo_5_compile.pyi">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -67,8 +59,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
+        <option value="Python Stub" />
       </list>
     </option>
   </component>
@@ -113,6 +106,9 @@
         <option value="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo_1_macth.py" />
         <option value="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo.html" />
         <option value="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo_2_search.py" />
+        <option value="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo_3_findall.py" />
+        <option value="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo_4_sub.py" />
+        <option value="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo_5_compile.pyi" />
       </list>
     </option>
   </component>
@@ -190,7 +186,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demo_2_search">
+  <component name="RunManager" selected="Python.demo_4_sub">
     <configuration name="demo_11_PreparedRequest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonSpider" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -248,7 +244,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="demo_5_Cookies" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo_3_findall" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonSpider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -256,18 +252,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/基本库的使用/2_使用requests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_5_Cookies.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo_3_findall.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="demo_6_维持会话" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo_4_sub" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonSpider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,31 +271,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/基本库的使用/2_使用requests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_6_维持会话.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo_4_sub.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.demo_5_Cookies" />
-      <item itemvalue="Python.demo_6_维持会话" />
       <item itemvalue="Python.demo_11_PreparedRequest" />
       <item itemvalue="Python.demo_1_macth" />
       <item itemvalue="Python.demo_2_search" />
+      <item itemvalue="Python.demo_3_findall" />
+      <item itemvalue="Python.demo_4_sub" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demo_4_sub" />
+        <item itemvalue="Python.demo_3_findall" />
         <item itemvalue="Python.demo_2_search" />
         <item itemvalue="Python.demo_1_macth" />
         <item itemvalue="Python.demo_11_PreparedRequest" />
-        <item itemvalue="Python.demo_6_维持会话" />
-        <item itemvalue="Python.demo_5_Cookies" />
       </list>
     </recent_temporary>
   </component>
@@ -622,7 +618,21 @@
       <option name="project" value="LOCAL" />
       <updated>1528327008527</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="search（）函数">
+      <created>1528329194981</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1528329194981</updated>
+    </task>
+    <task id="LOCAL-00046" summary="findall（）函数">
+      <created>1528330503269</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1528330503269</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -634,9 +644,9 @@
       <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.32881355" />
       <window_info anchor="bottom" id="Python Console" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="9" sideWeight="0.49960968" visible="true" weight="0.3779661" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49960968" visible="true" weight="0.3779661" />
       <window_info anchor="bottom" id="Terminal" order="5" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.20296644" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20296644" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="2" />
       <window_info anchor="right" id="SciView" order="0" />
@@ -659,8 +669,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="代理" />
-    <MESSAGE value="cookies的处理" />
     <MESSAGE value="python文件名称修改" />
     <MESSAGE value="URLError使用" />
     <MESSAGE value="HTTPError异常使用" />
@@ -684,37 +692,11 @@
     <MESSAGE value="update" />
     <MESSAGE value="正则表达式match" />
     <MESSAGE value="match()函数" />
-    <option name="LAST_COMMIT_MESSAGE" value="match()函数" />
+    <MESSAGE value="search（）函数" />
+    <MESSAGE value="findall（）函数" />
+    <option name="LAST_COMMIT_MESSAGE" value="findall（）函数" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_12_urlencode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_3_request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="14" column="68" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_6_cookies.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_5_proxy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -1033,10 +1015,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo_2_search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-25">
-          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        <state relative-caret-position="76">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://E:/python36/Lib/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="218" column="28" lean-forward="true" selection-start-line="218" selection-start-column="28" selection-end-line="218" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo_3_findall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo_4_sub.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo_5_compile.pyi">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
