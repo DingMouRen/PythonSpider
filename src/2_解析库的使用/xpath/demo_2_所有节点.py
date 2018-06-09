@@ -8,7 +8,7 @@ print(result1)
 
 # 2.匹配指点节点名称
 html2 = etree.parse('./demo_1_test.html',etree.HTMLParser())
-result2 = html2.xpath('//li')
+result2 = html2.xpath('//li') # //表示查找子孙节点
 print('2.匹配指点节点名称')
 print(result2)
 print(result2[0])
