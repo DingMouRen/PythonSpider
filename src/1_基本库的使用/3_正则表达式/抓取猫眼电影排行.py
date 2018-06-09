@@ -19,13 +19,12 @@ def get_one_page(url):
 
 # 解析抓取到的html内容
 def parse_one_page(html):
-    pattern = re.compile('<dd>.*?board-index.*?>(\d+)</i>.*?data-src="(.*?)".*?name"><a.*?>(.*?)</a>.*?star">(.*?)</p>.*?releasetime">(.*?)</p>'
-                         +'.*?integer">(.*?)</i>.*?fraction">(.*?)</i>.*?</dd>',re.S)
+    pattern = re.compile('<dd>.*?board-index-.*?>(\d+)</i>.*?data-src="(.*?)".*?name"><a.*?>(.*?)</a>.*?star">(.*?)</p>.*?releasetime">(.*?)</p>.*?integer">(.*?)</i>.*?fraction">(.*?)</i>.*?</dd>',re.S)
     items = re.findall(pattern,html)
     for item in items:
-        yield{ #yield是生成器
+        yield{ #yield是生成器,有类似于return
             'index':item[0],
-            'image':items[1],
+            'image':item[1],
             'title':item[2],
             'actor':item[3].strip()[3:],  # strip()去除前后的空格，[3:]获取位置从3开始到结尾的字符串
             'time':item[4].strip()[5:],
@@ -34,12 +33,13 @@ def parse_one_page(html):
 
 # 将解析好的内容写入文件
 def write_to_file(content):
-    with open('猫眼电影排行.txt','a',encoding='utf-8') as f:
+    with open('猫眼电影排行.txt','a',encoding='utf-8') as f:  # a是追加模式
+        f.cl
         f.write(json.dumps(content,ensure_ascii=False)+'\n')
 
 # 分页爬取
 def main(offset):
-    url = 'http://maoyan.com/board/4?offsset='+str(offset)
+    url = 'http://maoyan.com/board/4?offset='+str(offset)
     html = get_one_page(url)
     for item in parse_one_page(html):
         print(item)
