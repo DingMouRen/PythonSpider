@@ -6,11 +6,11 @@ from lxml import etree
 其他函数处理参考：http://www.w3school.com.cn/xpath/xpath_functions.asp
 '''
 html = etree.parse('./demo_1_test.html',etree.HTMLParser())
-result = html.xpath('//li[1]/a/text()')
+result = html.xpath('//li[1]/a/text()') # 第一个
 print(result)
-result = html.xpath('//li[last()]/a/text()')
+result = html.xpath('//li[last()]/a/text()') # 最后一个
 print(result)
-result = html.xpath('//li[position()<3]/a/text()')
+result = html.xpath('//li[position()<3]/a/text()') # 第一个 第二个
 print(result)
-result = html.xpath('//li[last()-2]/a/text()')
+result = html.xpath('//li[last()-2]/a/text()') # 倒数第三个
 print(result)
