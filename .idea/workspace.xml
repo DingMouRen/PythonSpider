@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="383c8f7e-e51b-4f39-b569-e33cd5619246" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_8_属性多值匹配.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_10_按序选择.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,6 +34,7 @@
     <SUITE FILE_PATH="coverage/PythonSpider$demo_3_findall.coverage" NAME="demo_3_findall Coverage Results" MODIFIED="1528330338413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_5.coverage" NAME="demo_5 Coverage Results" MODIFIED="1526514888025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_15_quote.coverage" NAME="demo_15_quote Coverage Results" MODIFIED="1526690028304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
+    <SUITE FILE_PATH="coverage/PythonSpider$demo_9_.coverage" NAME="demo_9_多属性匹配 Coverage Results" MODIFIED="1528513915506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/2_解析库的使用/xpath" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_14_parse_qsl.coverage" NAME="demo_14_parse_qsl Coverage Results" MODIFIED="1526689710559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_1_macth.coverage" NAME="demo_1_macth Coverage Results" MODIFIED="1528326994221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式" />
     <SUITE FILE_PATH="coverage/PythonSpider$test.coverage" NAME="test Coverage Results" MODIFIED="1528416603493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
@@ -42,6 +43,7 @@
     <SUITE FILE_PATH="coverage/PythonSpider$demo_5_Cookies.coverage" NAME="demo_5_Cookies Coverage Results" MODIFIED="1526717320121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/2_使用requests" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_5_compile.coverage" NAME="demo_5_compile Coverage Results" MODIFIED="1528331869227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_3.coverage" NAME="demo_3 Coverage Results" MODIFIED="1526472277070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
+    <SUITE FILE_PATH="coverage/PythonSpider$demo_10_.coverage" NAME="demo_10_按序选择 Coverage Results" MODIFIED="1528514937197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/2_解析库的使用/xpath" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_8_HTTPError.coverage" NAME="demo_8_HTTPError Coverage Results" MODIFIED="1526557789513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_7_.coverage" NAME="demo_7_属性获取 Coverage Results" MODIFIED="1528513184615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/2_解析库的使用/xpath" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_2_search.coverage" NAME="demo_2_search Coverage Results" MODIFIED="1528329163512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式" />
@@ -56,20 +58,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="demo_7_属性获取.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_7_属性获取.py">
+      <file leaf-file-name="demo_9_多属性匹配.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_9_多属性匹配.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+            <state relative-caret-position="76">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo_8_属性多值匹配.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_8_属性多值匹配.py">
+      <file leaf-file-name="demo_10_按序选择.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_10_按序选择.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="99" selection-start-line="9" selection-start-column="99" selection-end-line="9" selection-end-column="99" />
+            <state relative-caret-position="95">
+              <caret line="5" column="61" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -91,8 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_3.py" />
-        <option value="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_4.py" />
         <option value="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_5.py" />
         <option value="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_6.py" />
         <option value="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_6_cookies.py" />
@@ -142,6 +142,8 @@
         <option value="$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_6_文本获取.py" />
         <option value="$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_7_属性获取.py" />
         <option value="$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_8_属性多值匹配.py" />
+        <option value="$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_9_多属性匹配.py" />
+        <option value="$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_10_按序选择.py" />
       </list>
     </option>
   </component>
@@ -219,8 +221,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demo_8_属性多值匹配">
-    <configuration name="demo_4_父节点" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.demo_10_按序选择">
+    <configuration name="demo_10_按序选择" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonSpider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,26 +235,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_4_父节点.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="demo_5_属性匹配" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonSpider" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/2_解析库的使用/xpath" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_5_属性匹配.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_10_按序选择.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -315,20 +298,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="demo_9_多属性匹配" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/2_解析库的使用/xpath" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_9_多属性匹配.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.demo_4_父节点" />
-      <item itemvalue="Python.demo_5_属性匹配" />
       <item itemvalue="Python.demo_6_文本获取" />
       <item itemvalue="Python.demo_7_属性获取" />
       <item itemvalue="Python.demo_8_属性多值匹配" />
+      <item itemvalue="Python.demo_9_多属性匹配" />
+      <item itemvalue="Python.demo_10_按序选择" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demo_10_按序选择" />
+        <item itemvalue="Python.demo_9_多属性匹配" />
         <item itemvalue="Python.demo_8_属性多值匹配" />
         <item itemvalue="Python.demo_7_属性获取" />
         <item itemvalue="Python.demo_6_文本获取" />
-        <item itemvalue="Python.demo_5_属性匹配" />
-        <item itemvalue="Python.demo_4_父节点" />
       </list>
     </recent_temporary>
   </component>
@@ -342,20 +344,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526425835584</updated>
-    </task>
-    <task id="LOCAL-00010" summary="URLError使用">
-      <created>1526556660914</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1526556660914</updated>
-    </task>
-    <task id="LOCAL-00011" summary="HTTPError异常使用">
-      <created>1526557817625</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1526557817625</updated>
     </task>
     <task id="LOCAL-00012" summary="urlparse的使用">
       <created>1526599498892</created>
@@ -686,7 +674,21 @@
       <option name="project" value="LOCAL" />
       <updated>1528513285338</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="xpath属性多值匹配">
+      <created>1528513680629</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1528513680629</updated>
+    </task>
+    <task id="LOCAL-00060" summary="xpath多属性匹配一个节点">
+      <created>1528514022447</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1528514022447</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -782,8 +784,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="unquote()函数可进行URL解码" />
-    <MESSAGE value="判断是否可以爬取网页，都是false呢~~~" />
     <MESSAGE value="requests库的使用" />
     <MESSAGE value="requests post请求" />
     <MESSAGE value="requests 文件上传  cookie处理" />
@@ -807,23 +807,11 @@
     <MESSAGE value="xpath匹配属性" />
     <MESSAGE value="xpath文本获取" />
     <MESSAGE value="xpath属性获取" />
-    <option name="LAST_COMMIT_MESSAGE" value="xpath属性获取" />
+    <MESSAGE value="xpath属性多值匹配" />
+    <MESSAGE value="xpath多属性匹配一个节点" />
+    <option name="LAST_COMMIT_MESSAGE" value="xpath多属性匹配一个节点" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_6_cookies.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_5_proxy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_14_parse_qsl.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -1163,6 +1151,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="99" selection-start-line="9" selection-start-column="99" selection-end-line="9" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_9_多属性匹配.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_10_按序选择.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="61" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="61" />
         </state>
       </provider>
     </entry>
