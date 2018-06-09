@@ -34,7 +34,6 @@ def parse_one_page(html):
 # 将解析好的内容写入文件
 def write_to_file(content):
     with open('猫眼电影排行.txt','a',encoding='utf-8') as f:  # a是追加模式
-        f.cl
         f.write(json.dumps(content,ensure_ascii=False)+'\n')
 
 # 分页爬取
