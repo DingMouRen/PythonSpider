@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="383c8f7e-e51b-4f39-b569-e33cd5619246" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_1_test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_1_实例引入.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_2_所有节点.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/temp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_3_子节点.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/temp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_2_所有节点.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_2_所有节点.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,6 +26,7 @@
     <SUITE FILE_PATH="coverage/PythonSpider$demo_17_robotparser.coverage" NAME="demo_17_robotparser Coverage Results" MODIFIED="1526694501357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_1_.coverage" NAME="demo_1_实例引入 Coverage Results" MODIFIED="1528507992100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/2_解析库的使用/xpath" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_2_GET.coverage" NAME="demo_2_GET Coverage Results" MODIFIED="1526707094783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/2_使用requests" />
+    <SUITE FILE_PATH="coverage/PythonSpider$demo_2_.coverage" NAME="demo_2_所有节点 Coverage Results" MODIFIED="1528509458544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/2_解析库的使用/xpath" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_2.coverage" NAME="demo_2 Coverage Results" MODIFIED="1526469782022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_13_parse_qs.coverage" NAME="demo_13_parse_qs Coverage Results" MODIFIED="1526689735229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_9_urlunparse.coverage" NAME="demo_9_urlunparse Coverage Results" MODIFIED="1526689813885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
@@ -55,36 +53,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="demo_1_实例引入.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_1_实例引入.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="demo_2_所有节点.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_2_所有节点.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo_3_子节点.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_3_子节点.py">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="demo_1_test.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_1_test.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="temp.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/temp.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" selection-start-line="7" selection-end-line="15" selection-end-column="6" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -150,6 +130,7 @@
         <option value="$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_1_test.html" />
         <option value="$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_1_实例引入.py" />
         <option value="$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_2_所有节点.py" />
+        <option value="$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_3_子节点.py" />
       </list>
     </option>
   </component>
@@ -227,7 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demo_1_实例引入">
+  <component name="RunManager" selected="Python.demo_2_所有节点">
     <configuration name="抓取猫眼电影排行" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonSpider" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -266,7 +247,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="demo_4_sub" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo_2_所有节点" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonSpider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -274,12 +255,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/2_解析库的使用/xpath" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/demo_4_sub.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_2_所有节点.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -324,19 +305,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.demo_4_sub" />
       <item itemvalue="Python.demo_5_compile" />
       <item itemvalue="Python.抓取猫眼电影排行" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.demo_1_实例引入" />
+      <item itemvalue="Python.demo_2_所有节点" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demo_2_所有节点" />
         <item itemvalue="Python.demo_1_实例引入" />
         <item itemvalue="Python.抓取猫眼电影排行" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.demo_5_compile" />
-        <item itemvalue="Python.demo_4_sub" />
       </list>
     </recent_temporary>
   </component>
@@ -350,13 +331,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526425835584</updated>
-    </task>
-    <task id="LOCAL-00003" summary="data参数  timeout参数">
-      <created>1526469856149</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1526469856149</updated>
     </task>
     <task id="LOCAL-00004" summary="Request实例的使用">
       <created>1526472664442</created>
@@ -694,7 +668,14 @@
       <option name="project" value="LOCAL" />
       <updated>1528505633990</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="xpath实例引入">
+      <created>1528508066285</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1528508066285</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -706,9 +687,9 @@
       <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.32881355" />
       <window_info anchor="bottom" id="Python Console" order="4" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49960968" visible="true" weight="0.31694916" />
+      <window_info active="true" anchor="bottom" id="Run" order="9" sideWeight="0.49960968" visible="true" weight="0.31694916" />
       <window_info anchor="bottom" id="Terminal" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20296644" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.20296644" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="2" />
       <window_info anchor="right" id="SciView" order="0" />
@@ -750,11 +731,46 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="urlparse的使用" />
     <MESSAGE value="urlunparse构造URL" />
     <MESSAGE value="urlsplit  urlunsplit" />
     <MESSAGE value="urljoin()函数补充，生成URL" />
@@ -779,16 +795,10 @@
     <MESSAGE value="sub（）函数" />
     <MESSAGE value="compile（）函数" />
     <MESSAGE value="抓取猫眼排行" />
-    <option name="LAST_COMMIT_MESSAGE" value="抓取猫眼排行" />
+    <MESSAGE value="xpath实例引入" />
+    <option name="LAST_COMMIT_MESSAGE" value="xpath实例引入" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://E:/python36/Lib/asyncore.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="615" column="8" selection-start-line="615" selection-start-column="8" selection-end-line="615" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/python36/Lib/urllib/response.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -1124,15 +1134,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_2_所有节点.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_1_实例引入.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        <state relative-caret-position="160">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_2_所有节点.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_3_子节点.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
