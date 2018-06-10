@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="383c8f7e-e51b-4f39-b569-e33cd5619246" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/3_数据存储/文件存储/demo_2_json文件存储.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/3_数据存储/文件存储/demo_2_读取json.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/temp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/3_数据存储/文件存储/demo_2_读取json.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/3_数据存储/文件存储/demo_2_读取json.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -65,8 +64,8 @@
       <file leaf-file-name="demo_2_读取json.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/3_数据存储/文件存储/demo_2_读取json.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+            <state relative-caret-position="220">
+              <caret line="69" column="81" selection-start-line="69" selection-start-column="81" selection-end-line="69" selection-end-column="81" />
             </state>
           </provider>
         </entry>
@@ -361,13 +360,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526425835584</updated>
-    </task>
-    <task id="LOCAL-00015" summary="urljoin()函数补充，生成URL">
-      <created>1526602536435</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1526602536435</updated>
     </task>
     <task id="LOCAL-00016" summary="urlencode（）函数">
       <created>1526603820105</created>
@@ -705,7 +697,14 @@
       <option name="project" value="LOCAL" />
       <updated>1528524881047</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="操作mysql">
+      <created>1528596527178</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1528596527178</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -801,7 +800,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="requests 通过Session对象来维持同一个会话，不需要反复添加cookie" />
     <MESSAGE value="requests SSL验证" />
     <MESSAGE value="requests 代理设置  超时设置" />
     <MESSAGE value="requests 封装成Request对象" />
@@ -826,7 +824,8 @@
     <MESSAGE value="xpath按序选择" />
     <MESSAGE value="xpath节点轴" />
     <MESSAGE value="文本文件存储" />
-    <option name="LAST_COMMIT_MESSAGE" value="文本文件存储" />
+    <MESSAGE value="操作mysql" />
+    <option name="LAST_COMMIT_MESSAGE" value="操作mysql" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/3_数据存储/文件存储/demo_2_读取json.py">
@@ -1122,8 +1121,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/3_数据存储/文件存储/demo_2_读取json.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+        <state relative-caret-position="220">
+          <caret line="69" column="81" selection-start-line="69" selection-start-column="81" selection-end-line="69" selection-end-column="81" />
         </state>
       </provider>
     </entry>
