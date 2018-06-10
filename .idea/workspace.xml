@@ -4,9 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_1.py" line="8" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="383c8f7e-e51b-4f39-b569-e33cd5619246" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="383c8f7e-e51b-4f39-b569-e33cd5619246" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -334,13 +332,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526425835584</updated>
-    </task>
-    <task id="LOCAL-00017" summary="parse_qs() parse_qsl()">
-      <created>1526689857831</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1526689857831</updated>
     </task>
     <task id="LOCAL-00018" summary="quote()函数将中文参数转变成URL编码">
       <created>1526690067522</created>
@@ -678,7 +669,14 @@
       <option name="project" value="LOCAL" />
       <updated>1528598351732</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="操作mysql">
+      <created>1528629554543</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1528629554544</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -689,7 +687,7 @@
       <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.32881355" />
       <window_info anchor="bottom" id="Python Console" order="4" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49882904" visible="true" weight="0.31694916" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49882904" weight="0.31694916" />
       <window_info anchor="bottom" id="Terminal" order="5" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20296644" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
