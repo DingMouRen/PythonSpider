@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="383c8f7e-e51b-4f39-b569-e33cd5619246" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/3_数据存储/文件存储/demo_2_读取json.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/3_数据存储/文件存储/demo_2_读取json.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,26 +59,7 @@
     <SUITE FILE_PATH="coverage/PythonSpider$demo7_URLError.coverage" NAME="demo7_URLError Coverage Results" MODIFIED="1526556449994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="demo_2_读取json.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/3_数据存储/文件存储/demo_2_读取json.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="69" column="81" selection-start-line="69" selection-start-column="81" selection-end-line="69" selection-end-column="81" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="temp.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/temp.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -180,12 +160,6 @@
               <item name="PythonSpider" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonSpider" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonSpider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonSpider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="3_数据存储" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -360,13 +334,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526425835584</updated>
-    </task>
-    <task id="LOCAL-00016" summary="urlencode（）函数">
-      <created>1526603820105</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1526603820105</updated>
     </task>
     <task id="LOCAL-00017" summary="parse_qs() parse_qsl()">
       <created>1526689857831</created>
@@ -704,21 +671,27 @@
       <option name="project" value="LOCAL" />
       <updated>1528596527178</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="操作mysql">
+      <created>1528598351732</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1528598351732</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50117093" side_tool="true" weight="0.31694916" />
       <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.32881355" />
       <window_info anchor="bottom" id="Python Console" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="9" sideWeight="0.49882904" visible="true" weight="0.31694916" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49882904" visible="true" weight="0.31694916" />
       <window_info anchor="bottom" id="Terminal" order="5" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.20296644" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20296644" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="2" />
       <window_info anchor="right" id="SciView" order="0" />
@@ -1121,8 +1094,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/3_数据存储/文件存储/demo_2_读取json.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="69" column="81" selection-start-line="69" selection-start-column="81" selection-end-line="69" selection-end-column="81" />
+        <state relative-caret-position="125">
+          <caret line="49" column="52" selection-start-line="49" selection-start-column="52" selection-end-line="49" selection-end-column="52" />
         </state>
       </provider>
     </entry>
