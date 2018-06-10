@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="383c8f7e-e51b-4f39-b569-e33cd5619246" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/3_数据存储/文件存储/demo_1_文件存储.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/3_数据存储/文件存储/demo_2_json文件存储.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/3_数据存储/文件存储/知乎.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/3_数据存储/文件存储/demo_2_json文件存储.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/3_数据存储/文件存储/demo_2_读取json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/temp.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,6 +41,7 @@
     <SUITE FILE_PATH="coverage/PythonSpider$demo_1_macth.coverage" NAME="demo_1_macth Coverage Results" MODIFIED="1528326994221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式" />
     <SUITE FILE_PATH="coverage/PythonSpider$test.coverage" NAME="test Coverage Results" MODIFIED="1528416603493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_5_.coverage" NAME="demo_5_属性匹配 Coverage Results" MODIFIED="1528510953228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/2_解析库的使用/xpath" />
+    <SUITE FILE_PATH="coverage/PythonSpider$temp.coverage" NAME="temp Coverage Results" MODIFIED="1528596209206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_11_urljoin.coverage" NAME="demo_11_urljoin Coverage Results" MODIFIED="1526689762793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_5_Cookies.coverage" NAME="demo_5_Cookies Coverage Results" MODIFIED="1526717320121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/2_使用requests" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_5_compile.coverage" NAME="demo_5_compile Coverage Results" MODIFIED="1528331869227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式" />
@@ -55,72 +55,28 @@
     <SUITE FILE_PATH="coverage/PythonSpider$demo_6.coverage" NAME="demo_6 Coverage Results" MODIFIED="1526516420325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_12_urlencode.coverage" NAME="demo_12_urlencode Coverage Results" MODIFIED="1526689750174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_16_unquote.coverage" NAME="demo_16_unquote Coverage Results" MODIFIED="1526690184898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
+    <SUITE FILE_PATH="coverage/PythonSpider$demo_2_json.coverage" NAME="demo_2_读取json Coverage Results" MODIFIED="1528595347960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/3_数据存储/文件存储" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_3_.coverage" NAME="demo_3_子节点 Coverage Results" MODIFIED="1528509742811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/2_解析库的使用/xpath" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_10_urlsplit.coverage" NAME="demo_10_urlsplit Coverage Results" MODIFIED="1526689773741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo7_URLError.coverage" NAME="demo7_URLError Coverage Results" MODIFIED="1526556449994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="demo_9_urlunparse.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_9_urlunparse.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="demo_11_urljoin.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_11_urljoin.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="demo_12_urlencode.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_12_urlencode.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="demo_14_parse_qsl.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_14_parse_qsl.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="demo_16_unquote.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_16_unquote.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="demo_15_quote.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_15_quote.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="demo_17_robotparser.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_17_robotparser.py">
+      <file leaf-file-name="demo_2_读取json.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/3_数据存储/文件存储/demo_2_读取json.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="27" column="149" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="149" />
+            <state relative-caret-position="315">
+              <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo_1_文件存储.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/3_数据存储/文件存储/demo_1_文件存储.py">
+      <file leaf-file-name="temp.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/temp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="152">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo_2_json文件存储.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/3_数据存储/文件存储/demo_2_json文件存储.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="知乎.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/3_数据存储/文件存储/知乎.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9462" />
           </provider>
         </entry>
       </file>
@@ -141,8 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_8_HTTPError.py" />
-        <option value="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_8_urlparse.py" />
         <option value="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_14_parse_qsl.py" />
         <option value="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_13_parse_qs.py" />
         <option value="$PROJECT_DIR$/src/基本库的使用/1_使用urllib/demo_12_urlencode.py" />
@@ -192,6 +146,8 @@
         <option value="$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_11_节点轴选择.py" />
         <option value="$PROJECT_DIR$/src/3_数据存储/文件存储/demo_1_文件存储.py" />
         <option value="$PROJECT_DIR$/src/3_数据存储/文件存储/demo_2_json文件存储.py" />
+        <option value="$PROJECT_DIR$/src/temp.py" />
+        <option value="$PROJECT_DIR$/src/3_数据存储/文件存储/demo_2_读取json.py" />
       </list>
     </option>
   </component>
@@ -202,7 +158,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="271" />
+    <option name="x" value="270" />
     <option name="y" value="60" />
     <option name="width" value="1335" />
     <option name="height" value="1035" />
@@ -231,13 +187,6 @@
               <item name="PythonSpider" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="3_数据存储" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonSpider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonSpider" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="3_数据存储" type="462c0819:PsiDirectoryNode" />
-              <item name="文件存储" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -270,26 +219,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demo_1_文件存储">
-    <configuration name="demo_10_按序选择" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonSpider" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/2_解析库的使用/xpath" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_10_按序选择.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.temp">
     <configuration name="demo_11_节点轴选择" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonSpider" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -328,7 +258,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="demo_8_属性多值匹配" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo_2_json文件存储" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonSpider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -336,18 +266,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/2_解析库的使用/xpath" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/3_数据存储/文件存储" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_8_属性多值匹配.py" />
+      <option name="SCRIPT_NAME" value="D:\python\PythonSpider\src\3_数据存储\文件存储\demo_2_读取json.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="demo_9_多属性匹配" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo_2_读取json" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonSpider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -355,31 +285,69 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/2_解析库的使用/xpath" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/3_数据存储/文件存储" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/2_解析库的使用/xpath/demo_9_多属性匹配.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/3_数据存储/文件存储/demo_2_读取json.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="demo_2_读取json" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/3_数据存储/文件存储" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/3_数据存储/文件存储/demo_2_读取json.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/temp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.demo_8_属性多值匹配" />
-      <item itemvalue="Python.demo_9_多属性匹配" />
-      <item itemvalue="Python.demo_10_按序选择" />
       <item itemvalue="Python.demo_11_节点轴选择" />
       <item itemvalue="Python.demo_1_文件存储" />
+      <item itemvalue="Python.demo_2_json文件存储" />
+      <item itemvalue="Python.demo_2_读取json" />
+      <item itemvalue="Python.temp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.temp" />
+        <item itemvalue="Python.demo_2_读取json" />
+        <item itemvalue="Python.demo_2_json文件存储" />
         <item itemvalue="Python.demo_1_文件存储" />
         <item itemvalue="Python.demo_11_节点轴选择" />
-        <item itemvalue="Python.demo_10_按序选择" />
-        <item itemvalue="Python.demo_9_多属性匹配" />
-        <item itemvalue="Python.demo_8_属性多值匹配" />
       </list>
     </recent_temporary>
   </component>
@@ -393,13 +361,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526425835584</updated>
-    </task>
-    <task id="LOCAL-00014" summary="urlsplit  urlunsplit">
-      <created>1526601385876</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1526601385876</updated>
     </task>
     <task id="LOCAL-00015" summary="urljoin()函数补充，生成URL">
       <created>1526602536435</created>
@@ -737,7 +698,14 @@
       <option name="project" value="LOCAL" />
       <updated>1528517133669</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="文本文件存储">
+      <created>1528524881047</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1528524881047</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -749,9 +717,9 @@
       <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.32881355" />
       <window_info anchor="bottom" id="Python Console" order="4" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49882904" visible="true" weight="0.31694916" />
+      <window_info active="true" anchor="bottom" id="Run" order="9" sideWeight="0.49882904" visible="true" weight="0.31694916" />
       <window_info anchor="bottom" id="Terminal" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20296644" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.20296644" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="2" />
       <window_info anchor="right" id="SciView" order="0" />
@@ -767,27 +735,27 @@
       <window_info anchor="bottom" id="Find" order="3" weight="0.32881355" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="9" sideWeight="0.49960968" visible="true" weight="0.011864407" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info content_ui="combo" id="Project" order="1" weight="0.20296644" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.32881355" />
+      <window_info active="true" anchor="bottom" id="Run" order="9" sideWeight="0.49960968" visible="true" weight="0.011864407" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Python Console" order="4" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="right" id="Database" order="2" />
       <window_info anchor="bottom" id="Terminal" order="5" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5003903" side_tool="true" weight="0.49746192" />
       <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="2" weight="0.32881355" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="right" id="SciView" order="0" />
-      <window_info anchor="bottom" id="Find" order="3" />
-      <window_info anchor="bottom" id="Python Console" order="4" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info id="Favorites" order="0" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -833,7 +801,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="requests 文件上传  cookie处理" />
     <MESSAGE value="requests 通过Session对象来维持同一个会话，不需要反复添加cookie" />
     <MESSAGE value="requests SSL验证" />
     <MESSAGE value="requests 代理设置  超时设置" />
@@ -858,9 +825,17 @@
     <MESSAGE value="xpath多属性匹配一个节点" />
     <MESSAGE value="xpath按序选择" />
     <MESSAGE value="xpath节点轴" />
-    <option name="LAST_COMMIT_MESSAGE" value="xpath节点轴" />
+    <MESSAGE value="文本文件存储" />
+    <option name="LAST_COMMIT_MESSAGE" value="文本文件存储" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/3_数据存储/文件存储/demo_2_读取json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_4_文件上传.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -987,16 +962,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/temp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/3_正则表达式/猫眼电影排行.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://E:/python36/Lib/typing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -1008,9 +973,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="222">
           <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1120,25 +1082,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_5_proxy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_6_cookies.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_8_HTTPError.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_8_urlparse.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1146,24 +1093,6 @@
           <caret line="21" column="68" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="68" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_9_urlunparse.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_11_urljoin.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_12_urlencode.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_14_parse_qsl.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_16_unquote.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_15_quote.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/1_使用urllib/demo_17_robotparser.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1181,14 +1110,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/3_数据存储/文件存储/demo_2_json文件存储.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/3_数据存储/文件存储/demo_2_读取json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

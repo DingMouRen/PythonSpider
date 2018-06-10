@@ -1,7 +1,10 @@
 
 
-def demo():
-    test = '  主演:李，高，红'
-    result = test.strip()
-    reh = result[3:]
-    print(reh)
+data = {
+    'id':'200180909',
+    'name':'jerry',
+    'age':20
+}
+table = 'students'
+valus = ','.join(['%s']*len(data))
+print(valus)
