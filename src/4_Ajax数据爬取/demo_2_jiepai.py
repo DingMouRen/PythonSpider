@@ -58,7 +58,7 @@ def save_image(item):
             else:
                 print('Already Downloaded', file_path)
     except requests.ConnectionError:
-        print('Failed to save image')
+        print('Failed  to save image')
 
 
 def main(offset):
