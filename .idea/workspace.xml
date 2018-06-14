@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="383c8f7e-e51b-4f39-b569-e33cd5619246" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/5_动态渲染页面爬取/demo_6_执行javascript.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/5_动态渲染页面爬取/demo_6_执行javascript.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/5_动态渲染页面爬取/demo_6_执行javascript.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,8 +66,8 @@
       <file leaf-file-name="demo_6_执行javascript.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/5_动态渲染页面爬取/demo_6_执行javascript.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+            <state relative-caret-position="57">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -345,13 +345,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526425835584</updated>
-    </task>
-    <task id="LOCAL-00026" summary="requests 通过Session对象来维持同一个会话，不需要反复添加cookie">
-      <created>1526718516505</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1526718516505</updated>
     </task>
     <task id="LOCAL-00027" summary="requests SSL验证">
       <created>1526719199496</created>
@@ -689,7 +682,14 @@
       <option name="project" value="LOCAL" />
       <updated>1528935703280</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="动态渲染网页 执行javascript">
+      <created>1528935925366</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1528935925366</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -701,9 +701,9 @@
       <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.32881355" />
       <window_info anchor="bottom" id="Python Console" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="9" sideWeight="0.4980484" visible="true" weight="0.60338986" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.4980484" weight="0.60338986" />
       <window_info anchor="bottom" id="Terminal" order="5" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.22014052" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.22014052" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="2" />
       <window_info anchor="right" id="SciView" order="0" />
@@ -785,7 +785,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="match()函数" />
     <MESSAGE value="search（）函数" />
     <MESSAGE value="findall（）函数" />
     <MESSAGE value="sub（）函数" />
@@ -810,7 +809,8 @@
     <MESSAGE value="动态渲染网页 获取多个节点" />
     <MESSAGE value="动态渲染网页 节点交互" />
     <MESSAGE value="动态渲染网页 动作链" />
-    <option name="LAST_COMMIT_MESSAGE" value="动态渲染网页 动作链" />
+    <MESSAGE value="动态渲染网页 执行javascript" />
+    <option name="LAST_COMMIT_MESSAGE" value="动态渲染网页 执行javascript" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/3_数据存储/文件存储/demo_2_读取json.py">
@@ -1169,8 +1169,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/5_动态渲染页面爬取/demo_6_执行javascript.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        <state relative-caret-position="57">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
         </state>
       </provider>
     </entry>
