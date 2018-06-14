@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="383c8f7e-e51b-4f39-b569-e33cd5619246" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/5_动态渲染页面爬取/demo_8_获取文本值.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/5_动态渲染页面爬取/demo_8_获取文本值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/5_动态渲染页面爬取/demo_9_获取id位置标签名大小.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,14 +59,24 @@
     <SUITE FILE_PATH="coverage/PythonSpider$demo_3_.coverage" NAME="demo_3_多个节点 Coverage Results" MODIFIED="1528848941175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/5_动态渲染页面爬取" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo_10_urlsplit.coverage" NAME="demo_10_urlsplit Coverage Results" MODIFIED="1526689773741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
     <SUITE FILE_PATH="coverage/PythonSpider$demo7_URLError.coverage" NAME="demo7_URLError Coverage Results" MODIFIED="1526556449994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/基本库的使用/1_使用urllib" />
+    <SUITE FILE_PATH="coverage/PythonSpider$demo_9_id.coverage" NAME="demo_9_获取id位置标签名大小 Coverage Results" MODIFIED="1529018386057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/5_动态渲染页面爬取" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="demo_8_获取文本值.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="demo_8_获取文本值.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/5_动态渲染页面爬取/demo_8_获取文本值.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+              <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="demo_9_获取id位置标签名大小.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/5_动态渲染页面爬取/demo_9_获取id位置标签名大小.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -89,7 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_1_实例引入.py" />
         <option value="$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_2_GET.py" />
         <option value="$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_3_POST.py" />
         <option value="$PROJECT_DIR$/src/基本库的使用/2_使用requests/demo_4_文件上传.py" />
@@ -140,6 +148,7 @@
         <option value="$PROJECT_DIR$/src/5_动态渲染页面爬取/demo_6_执行javascript.py" />
         <option value="$PROJECT_DIR$/src/5_动态渲染页面爬取/demo_7_获取属性.py" />
         <option value="$PROJECT_DIR$/src/5_动态渲染页面爬取/demo_8_获取文本值.py" />
+        <option value="$PROJECT_DIR$/src/5_动态渲染页面爬取/demo_9_获取id位置标签名大小.py" />
       </list>
     </option>
   </component>
@@ -222,26 +231,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demo_8_获取文本值">
-    <configuration name="demo_4_节点交互" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonSpider" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/5_动态渲染页面爬取" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/5_动态渲染页面爬取/demo_4_节点交互.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.demo_9_获取id位置标签名大小">
     <configuration name="demo_5_动作链" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonSpider" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -318,20 +308,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="demo_9_获取id位置标签名大小" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/5_动态渲染页面爬取" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/5_动态渲染页面爬取/demo_9_获取id位置标签名大小.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.demo_4_节点交互" />
       <item itemvalue="Python.demo_5_动作链" />
       <item itemvalue="Python.demo_6_执行javascript" />
       <item itemvalue="Python.demo_7_获取属性" />
       <item itemvalue="Python.demo_8_获取文本值" />
+      <item itemvalue="Python.demo_9_获取id位置标签名大小" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demo_9_获取id位置标签名大小" />
         <item itemvalue="Python.demo_8_获取文本值" />
         <item itemvalue="Python.demo_7_获取属性" />
         <item itemvalue="Python.demo_6_执行javascript" />
         <item itemvalue="Python.demo_5_动作链" />
-        <item itemvalue="Python.demo_4_节点交互" />
       </list>
     </recent_temporary>
   </component>
@@ -345,13 +354,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526425835584</updated>
-    </task>
-    <task id="LOCAL-00029" summary="requests 封装成Request对象">
-      <created>1526724562352</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1526724562352</updated>
     </task>
     <task id="LOCAL-00030" summary="正则表达式">
       <created>1526734563290</created>
@@ -689,7 +691,14 @@
       <option name="project" value="LOCAL" />
       <updated>1529017773585</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="动态渲染网页 获取文本值">
+      <created>1529018060137</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1529018060137</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -785,7 +794,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="findall（）函数" />
     <MESSAGE value="sub（）函数" />
     <MESSAGE value="compile（）函数" />
     <MESSAGE value="抓取猫眼排行" />
@@ -810,16 +818,10 @@
     <MESSAGE value="动态渲染网页 动作链" />
     <MESSAGE value="动态渲染网页 执行javascript" />
     <MESSAGE value="动态渲染网页 获取属性值" />
-    <option name="LAST_COMMIT_MESSAGE" value="动态渲染网页 获取属性值" />
+    <MESSAGE value="动态渲染网页 获取文本值" />
+    <option name="LAST_COMMIT_MESSAGE" value="动态渲染网页 获取文本值" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/requests/cookies.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="261" column="8" selection-start-line="261" selection-start-column="8" selection-end-line="261" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/1_基本库的使用/2_使用requests/demo_6_维持会话.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -1167,7 +1169,14 @@
     <entry file="file://$PROJECT_DIR$/src/5_动态渲染页面爬取/demo_8_获取文本值.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/5_动态渲染页面爬取/demo_9_获取id位置标签名大小.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
         </state>
       </provider>
     </entry>
