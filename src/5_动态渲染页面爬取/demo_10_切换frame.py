@@ -13,6 +13,5 @@ except NoSuchElementException:
 browser.switch_to.parent_frame()
 logo = browser.find_element_by_class_name('logo')
 print(logo)
-
 print(logo.text)
 browser.close()
