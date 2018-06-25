@@ -8,6 +8,7 @@ browser.get(url)
 browser.switch_to.frame('iframeResult')
 try:
     logo = browser.find_element_by_class_name('logo')
+
 except NoSuchElementException:
     print("NO LOGO")
 browser.switch_to.parent_frame()
